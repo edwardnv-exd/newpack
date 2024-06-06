@@ -1,0 +1,7 @@
+setup.py
+hello_package/__init__.py
+hello_package/hello.py
+newpack.egg-info/PKG-INFO
+newpack.egg-info/SOURCES.txt
+newpack.egg-info/dependency_links.txt
+newpack.egg-info/top_level.txt
